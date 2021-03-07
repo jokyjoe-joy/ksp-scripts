@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+    <img width="33%" src="https://freepikpsd.com/wp-content/uploads/2019/10/kerbal-space-program-logo-png-1-Transparent-Images.png"> 
+</p>
+
 # KSP Scripts
 
 You can find all my scripts used for playing KSP in this repository. While learning C++, I thought what would be a better way to learn it thoroughly than learning while doing something you love. Therefore, I set up a KSP C++ Client using kRPC and this repository is its outcome.
