@@ -18,3 +18,5 @@ git clone https://github.com/jokyjoe-joy/ksp-scripts
 Codename Test -- Connecting to vessel and activating first stage
 
 Venture -- Basic suborbital flight
+
+Event Horizon -- Orbiting Kerbin and then returning
